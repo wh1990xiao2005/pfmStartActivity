@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pfmStartActivity</string>
+    <string name="activity_first_example_text">I\'m FirstActivity</string>
+    <string name="activity_second_example_text">I\'m SecondActivity</string>
+    <string name="activity_main_launch_first_text">Launch FirstActivity</string>
+    <string name="activity_main_launch_second_text">Launch SecondActivity</string>
+</resources>
